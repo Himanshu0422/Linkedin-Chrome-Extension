@@ -14,3 +14,5 @@ This template should help get you started developing with React in WXT.
    yarn run dev
 
 ## Video
+
+https://github.com/user-attachments/assets/9dfd4fa2-5306-4d19-9ca8-7b3cdf266089
